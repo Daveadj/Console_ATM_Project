@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "26ySefhKdoRg3kSYWPg8s6JjdD1om4NbuXScHa4r0fe9t4svEUyOHjkBBXpBZR2VBWSF4gidYS8eyS6bC46uEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\peace\\Desktop\\ovo\\ATM project\\ATM project\\ATM project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\peace\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
